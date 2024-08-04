@@ -1,2 +1,2 @@
-# Escuela-Flet
-Proyecto final de la escuela, App CRUD con Flet
+# Netflix Dataset
+Analisis de datos con Python de un dataset de Netflix
